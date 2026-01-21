@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
+<title>Bible verses </title>
+<meta name="description" content="موقع يحتوي على مجموعة من آيات الكتاب المقدس مع تفسيرات قصيرة.">
+<meta name="keywords" content="آيات, الكتاب المقدس, دين, مسيحية, تعليم ديني">
+<meta name="robots" content="index, follow">
 <meta charset="UTF-8">
-<title>آية من الأناجيل الأربعة</title>
+
 
 <style>
 body {
