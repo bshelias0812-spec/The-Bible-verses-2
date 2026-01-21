@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
+
+  <meta name="google-site-verification" content="z_BXFsyWSlkUE4G8pQ6BsOKT1GEPiD2JyJik-4BuyWw" />
 <title>Bible verses </title>
 <meta name="description" content="موقع يحتوي على مجموعة من آيات الكتاب المقدس مع تفسيرات قصيرة.">
 <meta name="keywords" content="آيات, الكتاب المقدس, دين, مسيحية, تعليم ديني">
